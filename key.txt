@@ -1,0 +1,1 @@
+[Key.shift]#hello[Key.space]world[Key.tab][Key.esc]
